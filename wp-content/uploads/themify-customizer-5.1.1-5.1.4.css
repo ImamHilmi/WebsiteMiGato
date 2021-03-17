@@ -1,0 +1,36 @@
+/* Themify Customize Styling */
+#headerwrap a {	
+	color: #cccccc; 
+}
+#headerwrap a:hover {	
+	color: #f6f6f6; 
+}
+body #site-logo a {	
+	font-family: "Palatino", 'Palatino Linotype', 'Book Antiqua', serif;	letter-spacing:2px;
+	font-size:50px;
+ 
+}
+#main-nav a, #main-nav > li > a, .transparent-header #main-nav a {	
+	color: #cccccc; 
+}
+#main-nav a:hover, #main-nav > li > a:hover {	
+	color: #f6f6f6; 
+}
+#footerwrap {	background: none;
+	background-color: #222222; 
+}
+#footer {	
+	color: #f6f6f6; 
+}
+#footer a {	
+	color: #f6f6f6; 
+}
+#footer a:hover {	
+	color: #cccccc; 
+}
+#pagewrap .back-top.back-top-float, .full-section-scrolling #footerwrap .back-top .arrow-up a, .footer-horizontal-left #footerwrap .back-top .arrow-up a, .footer-horizontal-right #footerwrap .back-top .arrow-up a, .footer-left-col #footerwrap .back-top .arrow-up a, .footer-right-col #footerwrap .back-top .arrow-up a, #footer .back-top .arrow-up a {	background: none;
+	background-color: #4d4d4d; 
+}
+#footerwrap .back-top a:before, #pagewrap .back-top.back-top-float {	
+	color: #f6f6f6; 
+}
